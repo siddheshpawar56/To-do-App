@@ -6,11 +6,11 @@ You need to create a account on [Firebase](https://console.firebase.google.com/u
 </br></br>
 # Steps to Deploy
 </br>
-1. git clone the repo
-2. cd into the clone repo
-3. sudo docker build -t To-do-app:v1 .</br>[Note: Copy the whole line along with dot(.) while pasting it]
-4. sudo docker images </br>[Note: list the image that you have created]
-5. sudo docker run -it -d -p 8080:8080 --name=Todo_App To-do-app:v1 </br>[Note: Run the Application image with name Todo_App]
+git clone the repo </br>
+cd into the clone repo</br>
+sudo docker build -t To-do-app:v1 .</br>[Note: Copy the whole line along with dot(.) while pasting it]</br>
+sudo docker images </br>[Note: list the image that you have created]</br>
+sudo docker run -it -d -p 8080:8080 --name=Todo_App To-do-app:v1 </br>[Note: Run the Application image with name Todo_App]</br>
 
 
 
