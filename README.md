@@ -14,5 +14,9 @@ sudo docker run -it -d -p 8080:8080 --name=Todo_App To-do-app:v1 </br>[Note: Run
 sudo docker ps -a</br>
 [Note: check if the container has been deployed and for other details like started,running,exited]</br></br>
 
+# Test your Application 
+write the below http link after changing the localhost or IP address on a web browser</br></br>
+http://[localhost or IP address]:8080</br></br>
+
 
 
