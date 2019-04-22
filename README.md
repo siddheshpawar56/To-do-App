@@ -23,5 +23,5 @@ http://[localhost or IP address]:5000</br></br>
 ![result 1](https://user-images.githubusercontent.com/38564686/56484449-55249b80-64ed-11e9-957a-bdae382ea22b.png)
 </br>
 </br>
-
-
+Firebase Result : 
+![result4](https://user-images.githubusercontent.com/38564686/56484548-b9dff600-64ed-11e9-95cc-2b333a8fdf5e.PNG)
