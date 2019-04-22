@@ -7,7 +7,7 @@ You need to create a account on [Firebase](https://console.firebase.google.com/u
 </br></br>
 # Steps to Deploy
 </br>
-Pull the image file from [Docker](https://cloud.docker.com/u/siddheshpawar56/repository/docker/siddheshpawar56/todoapp "Docker")
+Pull the image file from https://cloud.docker.com/u/siddheshpawar56/repository/docker/siddheshpawar56/todoapp
 git clone the repo </br></br>
 cd into the clone repo</br></br>
 sudo docker build -t To-do-app:v1 .</br>[Note: Copy the whole line along with dot(.) while pasting it]</br></br>
