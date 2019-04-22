@@ -20,4 +20,5 @@ http://[localhost or IP address]:5000</br></br>
 
 # Output
 
-![alt text](https://drive.google.com/file/d/1bCiuj1ishz6wma6rQFY2TvoXAU-gDWjs/view?usp=sharing)
+![result 1](https://user-images.githubusercontent.com/38564686/56484449-55249b80-64ed-11e9-957a-bdae382ea22b.png)
+
